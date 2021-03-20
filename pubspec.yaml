@@ -6,9 +6,7 @@ description: An absolute bare-bones web app.
 environment:
   sdk: '>=2.10.0 <3.0.0'
 
-dependencies:
-  shelf: any
-  shelf_static: any
+#dependencies:
 #  path: ^1.7.0
 
 dev_dependencies:
